@@ -1,4 +1,6 @@
 # Bienvenue sur mon github!
 
-Beaucoup de mes projets sont en privé!
+Actuellement : Dev junior
+Java > Spring Boot, JUnit
+un peu de nodejs en back et de python en R&D IA 
 
